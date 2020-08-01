@@ -2,7 +2,7 @@ A Case Study on Affirm, Inc.
 
 ## Overview and Origin
 
-https://github.com/laguilar359/Case_Study/blob/master/blue_solid_circle-white_bg%20(1).svg
+![Affirm Inc.](https://github.com/laguilar359/Case_Study/blob/master/blue_solid_circle-white_bg%20(1).svg)
 
 Affirm, Inc. offers an online platform which provides point of sale installment loans to consumers [Crunchbase]. Affirm was founded in 2012 by Nathan Getings and Jeffrey Kaditz, along with with PayPal co-founder Max Levchin, who in 2014 became its CEO [Wikipedia]. 
 
