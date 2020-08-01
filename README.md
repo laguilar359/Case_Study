@@ -1,11 +1,12 @@
-# Case_Study
 A Case Study on Affirm, Inc.
 
 ## Overview and Origin
 
+blue_solid_circle-white_bg (1).svg
+
 Affirm, Inc. offers an online platform which provides point of sale installment loans to consumers [Crunchbase]. Affirm was founded in 2012 by Nathan Getings and Jeffrey Kaditz, along with with PayPal co-founder Max Levchin, who in 2014 became its CEO [Wikipedia]. 
 
-The origin behind Affirm’s founding was to provide consumers with an alternative to the standard credit card model by using a simple interest model instead of traditional compound interests, and by providing consumers with upfront information on what they’ll expect to pay each month, with no hidden fees. Furthermore, a goal of the company was to democratize the lending process by using alternative information such as [Affirm.com]
+The origin behind Affirm’s founding was to provide consumers with an alternative to the standard credit card model by using a simple interest model instead of traditional compound interests, and by providing consumers with upfront information on what they’ll expect to pay each month, with no hidden fees. Furthermore, a goal of the company was to democratize the lending process by using alternative information such as current economic conditions, eligibility criteria (credit score, payment history), and the merchant’s interest rate [Affirm.com].
 
 Affirm is funded through venture capital rounds. To date, Affirm has raised $1.03 billion through several funding rounds [Techcrunch].
 
@@ -25,13 +26,13 @@ Affirm, Inc. operates within the Fintech Lending and Point of Sale Loans domains
 
 ## Results
 
-Affirm has partnered with thousands of e-commerce and traditional retailers, and issued over $2 billion in consumer loan volume in 2018 [Pitchbook].
+Affirm has partnered with around 6,000 e-commerce and traditional retailers as of 2020, and issued over $2 billion in consumer loan volume in 2018 [Pitchbook].
 
 The core metrics of Affirm’s business model are Annual Revenue, Loan Volume, Net Present Value, and Valuation. Affirm grew 50% year over year in loan volume from 2017 to 2018, at the same time, it’s annual revenue increased from $67 million to $112 million, and grew again to $198 million in 2019 [Incfact.com]. With $198 million in revenue for 2019, Affirm significantly outpaced its closest competitors such as Upgrade ($65 million), Zmarta Group ($65 million), and Creamfinance ($27 million) [Zoominfo.com]
 
 ## Recommendations
 
-One of the biggest threats to Affirm’s growth is public perception that it engages in the same type of predatory lending that it seeks to replace as it disrupts the traditional credit card industry. Furthermore, public concerns that the ease of access to loans could create a vicious debt trap for less financially-savvy consumers, is another threat. To address these issues, Affirm should provide access to personal finance education tools to their customers within their lending ecosystem through a partnership with an e-learning platform.
+One of the biggest threats to Affirm’s growth is public perception that it engages in the same type of predatory lending that it seeks to replace as it disrupts the traditional credit card industry. Furthermore, public concerns that the ease of access to loans could create a vicious debt trap for less financially savvy consumers, is another threat. To address these issues, Affirm should provide access to personal finance education tools to their customers within their lending ecosystem through a partnership with an e-learning platform.
 
 By providing free personal finance education, Affirm can show that it cares about their customers and wants to help them make smart financial decisions. In order to provide access to this type of learning, Affirm would use or link with e-learning platforms. E-learning platforms are the most appropriate for this purpose because they have built-in capabilities that efficiently deliver this type of learning to consumers within the Affirm ecosystem.
 
@@ -42,12 +43,13 @@ By providing free personal finance education, Affirm can show that it cares abou
 
 SOURCES:
 
-1.	"Affirm Company Overview" www.crunchbase.com
-2.	"Affirm (Company)" www.wikipedia.org
-3.	"Affirm: About Us" www.affirm.com
-4.	"Max Levchin’s Affirm seeks capital amid surge in fintech funding" www. Techcrunch.com
-5.	"Credit Card Ownership Statistics" www.creditcards.com
-6.	"Defining Data Models with IDOL" www.tech.affirm.com
-7.	"Affirm scores $300M Series F at reported $2.9B valuation" www.pitchbook.com
-8.	"AFFIRM Revenue, Growth & Competitor Profile" www.incfact.com
-9.	"Affirm Inc Profile" www.zoominfo.com
+1.	“Affirm Inc. Organization Overview”  https://www.crunchbase.com/organization/affirm#section-overview www.crunchbase.com
+2.	 “Affirm (company)” https://en.wikipedia.org/wiki/Affirm_(company) www.wikipedia.org
+3.	 “Affirm Inc. About Us” https://www.affirm.com/about www.affirm.com
+4.	https://techcrunch.com/2019/09/12/affirm-fintech-explosion/ www. Techcrunch.com
+5.	“Credit Card Ownership Statistics” https://www.creditcards.com/credit-card-news/ownership-statistics/ www.creditcards.com
+6.	“Defining Data Models with IDOL” "Defining Data Models with IDOL" www.tech.affirm.com
+7.	"Affirm scores $300M Series F at reported $2.9B valuation" https://pitchbook.com/news/articles/affirm-scores-300m-series-f-at-reported-29b-valuation www.pitchbook.com
+8.	"AFFIRM Revenue, Growth & Competitor Profile" https://incfact.com/company/affirm-sanfrancisco-ca/ www.incfact.com
+9.	"Affirm Inc Profile" https://www.zoominfo.com/c/Affirm-inc/369073921  www.zoominfo.com
+
